@@ -1,4 +1,4 @@
-# &#9084; Resin Extensible Search Engine
+# &#9084; Resin Extensible Search engINe
 
 Resin is a document oriented key/value database with columnar indexing, multi-collection query API and JSON-based query language. 
 Three main units of data are _document_, _vector_, and _query_ (a tree of vectors). 
